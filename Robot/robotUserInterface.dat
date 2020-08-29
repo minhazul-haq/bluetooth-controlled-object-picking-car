@@ -1,0 +1,67 @@
+[Main]
+SizeX=14400
+SizeY=9270
+[1]
+Name=panel_1
+Type=JPanel
+Value=panel_1
+X= 120
+Y= 600
+SizeX= 13920
+SizeY= 7440
+[2]
+Name=label_1
+Type=JLabel
+Value=Bluetooth not connected!
+X= 5400
+Y= 120
+SizeX= 2520
+SizeY= 360
+[3]
+Name=button_1
+Type=JButton
+Value=Exit
+X= 12600
+Y= 8400
+SizeX= 1440
+SizeY= 360
+[4]
+Name=button_2
+Type=JButton
+Value=About
+X= 10800
+Y= 8400
+SizeX= 1440
+SizeY= 360
+[5]
+Name=button_3
+Type=JButton
+Value=Refresh image
+X= 8880
+Y= 8400
+SizeX= 1560
+SizeY= 360
+[6]
+Name=button_4
+Type=JButton
+Value=Settings
+X= 7080
+Y= 8400
+SizeX= 1440
+SizeY= 360
+[7]
+Name=button_5
+Type=JButton
+Value=button_5
+X= 5160
+Y= 8400
+SizeX= 1560
+SizeY= 360
+[8]
+Name=button_6
+Type=JButton
+Value=Connect to microcontroller
+X= 2880
+Y= 8400
+SizeX= 2040
+SizeY= 360
